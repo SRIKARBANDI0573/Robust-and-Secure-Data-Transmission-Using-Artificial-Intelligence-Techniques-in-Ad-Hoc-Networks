@@ -71,3 +71,4 @@ class ABC(intelligence.sw):
         neighbor = np.clip(neighbor, lb, ub)
 
         return list(neighbor)
+
